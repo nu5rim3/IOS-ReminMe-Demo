@@ -49,7 +49,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Reminders" id="zuF-iM-FaO">
-                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="f1S-t4-6ej">
+                        <barButtonItem key="leftBarButtonItem" systemItem="add" id="f1S-t4-6ej">
                             <connections>
                                 <segue destination="dUX-pF-gZ1" kind="presentation" id="Axv-FY-xBp"/>
                             </connections>
